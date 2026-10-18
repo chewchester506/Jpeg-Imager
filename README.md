@@ -216,4 +216,4 @@ JPEG Imager is offered as a complete free version with all features and updates 
 Start optimizing your images today with JPEG Imager! Download now and experience the best in image compression.
 
 ---
-**Last updated:** 2026-10-17 22:09:42 UTC
+**Last updated:** 2026-10-18 00:49:11 UTC
